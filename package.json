@@ -1,7 +1,7 @@
 {
   "name": "node_mysql",
   "version": "1.0.0",
-  "description": "Painel",
+  "description": "Painel Adiministrativo",
   "main": "app.js",
   "author": "Anderson Lima",
   "license": "MIT",
